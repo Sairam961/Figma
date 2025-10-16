@@ -33,9 +33,8 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-  
-
-<div style="width: 360px; height: 640px; padding: 10px; transform: rotate(180deg); transform-origin: 0 0; background-image: url(https://via.placeholder.com/360x640); flex-direction: column; justify-content: flex-start; align-items: flex-
+'''
+   <div style="width: 360px; height: 640px; padding: 10px; transform: rotate(180deg); transform-origin: 0 0; background-image: url(https://via.placeholder.com/360x640); flex-direction: column; justify-content: flex-start; align-items:   flex-
      
 start; gap: 10px; display: inline-flex"></div>
 
@@ -108,7 +107,7 @@ start; gap: 10px; display: inline-flex"></div>
                                                                                                                                                                                     
    </div>
 
-
+'''
 
 
 ## OUTPUT:
